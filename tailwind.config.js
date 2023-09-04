@@ -10,6 +10,10 @@ module.exports = {
       },
       backgroundImage: {
         'homePage': "url('/assets/img/skyNight.jpg')",
+      },
+      colors: {
+        'blue-experiences': '#506DAF',
+        'back-contact': '#D9CBEC'
       }
     },
   },
